@@ -14,7 +14,7 @@ Python 3.6+
 1. srv.py 가 존재하는 디렉토리에서 "python srv.py" 명령어를 실행합니다.
 2. 프로그램을 종료하고자 할때는 `ctrl+c` 키를 눌러서 KeyboardInturrupt 를 발생시키면 됩니다.
 
-## Client  실행
+## Client
 1. cli.py 가 존재하는 디렉토리에서 "python cli.py [서버의 ip 주소] [서버의 port 번호]" 명령어를 실행합니다. local 에서 테스트할 경우에는 "python cli.py 127.0.0.1 8888" 명령어를 실행하면 됩니다.
 2. 프로그램을 종료하고자 할때는 `ctrl+c` 키를 눌러서 KeyboardInturrupt 를 발생시키면 됩니다.
 
